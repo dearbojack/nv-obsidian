@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "brett",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,5 +78,9 @@
     }
   },
   "active": "4c4635a070d6e6bd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "nvalt.md",
+    "README.md",
+    "notational velocity.md"
+  ]
 }

@@ -15,3 +15,13 @@ In this template vault, there is no third-party plugins and most of the core plu
 Those are default hotkeys:
 1. `Ctrl + O` to search for notes and create notes if there is no matching titles.
 2. `Ctrl + Shift + F` to do a full-text search.
+
+## How to use
+
+Download the repo as zip and unzip. Copy / move your notes into the `nv-obsidian` folder.
+
+**To create a note**, `Ctrl + O` , type its title and press return. Or edit existing notes.
+
+**To search in the note vault**, `Ctrl + Shift + F`.
+
+That's it. No other fuss.
