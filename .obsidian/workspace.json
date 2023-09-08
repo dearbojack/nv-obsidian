@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,8 +80,8 @@
   },
   "active": "4c4635a070d6e6bd",
   "lastOpenFiles": [
-    "nvalt.md",
     "README.md",
+    "nvalt.md",
     "notational velocity.md"
   ]
 }
